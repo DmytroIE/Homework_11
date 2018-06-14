@@ -1,0 +1,15 @@
+.main-title__upper-item,
+.section-title__upper-item
+{
+  font-family: $italic-title-font;
+  display: inline-block;
+}
+
+.main-title__lower-item,
+.section-title__lower-item
+{
+  display: inline-block;
+  font-family: $title-font;
+  text-transform: uppercase;
+  font-weight: 700;
+}

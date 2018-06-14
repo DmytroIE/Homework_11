@@ -1,0 +1,5 @@
+.navigation {
+  @include flex($ai: stretch);
+  padding-top: 27px;
+  margin-bottom: 155px;
+}

@@ -1,0 +1,4 @@
+.shopping-search-form {
+  @include flex($ai: stretch);
+  width: 80px;
+}

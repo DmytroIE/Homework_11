@@ -1,0 +1,18 @@
+.form-button{
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.form-button__icon{
+  width: 100%;
+  height: 100%;
+  fill: $primary-light-color;
+}
+
+.form-button:hover .form-button__icon{
+  fill: $cream-theme-lower-color;
+}

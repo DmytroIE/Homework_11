@@ -1,0 +1,26 @@
+.section-title{
+  padding-top: 45px;
+  color: $title-dark-color;
+  text-align: center;
+  margin-bottom: 64px;
+
+  &::after{
+    display: block;
+    content: "";
+    width: 60px;
+    height: 3px;
+    background-color: $cream-theme-upper-color;
+    margin: 0px auto;
+    margin-top: 35px;
+  }
+}
+
+.section-title__upper-item{
+  font-size: 24px;
+  margin-bottom: 17px;
+}
+
+.section-title__lower-item {
+  font-size: 30px;
+}
+
